@@ -16,6 +16,7 @@ This project involves end-to-end data analysis of crowdfunding campaigns using *
 - Window functions in SQL for ranking and trend analysis
 
 INSIGHTS
+
 🎯 1. Target Low to Mid-Range Funding Goals
 Projects with funding goals between $1K–$10K had significantly higher success rates compared to those with larger goals.
 
