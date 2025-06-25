@@ -18,14 +18,19 @@ This project involves end-to-end data analysis of crowdfunding campaigns using *
 INSIGHTS
 🎯 1. Target Low to Mid-Range Funding Goals
 Projects with funding goals between $1K–$10K had significantly higher success rates compared to those with larger goals.
+
 🗓️ 2. Launch Campaigns in Q1 (Especially March)
 Campaigns launched in March or Q1 received more backer attention and had higher funding success — suggesting a seasonal pattern.
+
 🎨 3. Focus on Popular Categories
 Categories like Games, Design, and Music consistently showed higher engagement and success, making them ideal for new campaigns.
+
 🌆 4. Leverage Urban Hubs
 Cities like Los Angeles, New York City, and London emerged as hotspots for backer activity, offering better visibility and support.
+
 ⏱️ 5. Keep Campaigns Short and Focused
 Campaigns with durations around 30 days performed better, suggesting that urgency drives more conversions.
+
 📉 6. Watch Out for Downtrends
 Notable decline in 2019 highlights the importance of updating marketing strategies or exploring newer crowdfunding platforms.
 
@@ -33,4 +38,4 @@ Notable decline in 2019 highlights the importance of updating marketing strategi
   👤 About Me
 **Vijay Manglani**  
 *Data Analyst | SQL • Excel • Tableau • Power BI*  
-[](#) | [Email](mailto:your@email.com)
+9767611059 - vmanglani039@gmail.com
